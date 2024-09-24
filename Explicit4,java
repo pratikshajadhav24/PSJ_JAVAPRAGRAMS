@@ -1,0 +1,9 @@
+public class Explicit4 {
+	public static void main(String[]args) {
+float f=120.56f;
+byte b=(byte)f;
+System.out.println("value of float"+f);
+		System.out.println("value of byte"+b);
+	}
+
+}
